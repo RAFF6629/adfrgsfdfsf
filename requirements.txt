@@ -1,0 +1,6 @@
+Flask==2.3.2
+pytube==15.0.0
+pytubefix==8.7.0
+TikTokApi==6.5.2
+youtubesearchpython==1.6.6
+openai==0.28.0
